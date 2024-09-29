@@ -36,7 +36,7 @@ class _AppState extends State<App> {
                 style: const TextStyle(fontSize: 30),
               ),
               IconButton(
-                iconSize: 40,
+                iconSize: 34,
                 onPressed: onClicked,
                 icon: const Icon(
                   Icons.add_box_rounded,
